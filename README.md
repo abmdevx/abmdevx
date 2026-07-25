@@ -22,7 +22,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/abdullahbutt09">
+  <a href="https://github.com/abmdevx">
     <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
   </a>
   &nbsp;&nbsp;
@@ -72,7 +72,7 @@ looking_for:
 
 ## 🚀 Featured Projects
 
-### [🧠 LearnMate | Peer Learning Platform](https://github.com/abdullahbutt09/learn-mate)
+### [🧠 LearnMate | Peer Learning Platform](https://github.com/abmdevx/learn-mate)
 
 - 🤝 Skill-based user matching
 - 👥 Real-time peer collaboration
@@ -90,7 +90,7 @@ looking_for:
 
 ---
 
-### [🎬 Stream-Core | YouTube-like Backend](https://github.com/abdullahbutt09/stream-core)
+### [🎬 Stream-Core | YouTube-like Backend](https://github.com/abmdevx/stream-core)
 
 - 🏗️ Production-style backend architecture
 - 🎥 Video uploads and management
@@ -106,7 +106,7 @@ looking_for:
 
 ---
 
-### [💵 DigitalWallet | Secure Wallet Application](https://github.com/abdullahbutt09/digital-wallet)
+### [💵 DigitalWallet | Secure Wallet Application](https://github.com/abmdevx/digital-wallet)
 
 - 🔐 Secure user authentication
 - 👤 User account management
@@ -124,7 +124,7 @@ looking_for:
 
 ---
 
-### [🎨 Collab Whiteboard | Real-time Collaborative Whiteboard](https://github.com/abdullahbutt09/collab-whiteboard)
+### [🎨 Collab Whiteboard | Real-time Collaborative Whiteboard](https://github.com/abmdevx/collab-whiteboard)
 
 - 🎨 Real-time collaborative drawing
 - 👥 Multi-user collaboration
@@ -165,19 +165,19 @@ looking_for:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-steel-nu.vercel.app/?user=abdullahbutt09&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff" height="195" alt="streak"/>
+  <img src="https://github-readme-streak-stats-steel-nu.vercel.app/?user=abmdevx&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff" height="195" alt="streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-one-ruddy.vercel.app/api?username=abdullahbutt09&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff" height="165" alt="stats"/>
+  <img src="https://github-readme-stats-one-ruddy.vercel.app/api?username=abmdevx&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff" height="165" alt="stats"/>
   &nbsp;
-  <img src="https://github-readme-stats-one-ruddy.vercel.app/api/top-langs?username=abdullahbutt09&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff" height="165" alt="languages"/>
+  <img src="https://github-readme-stats-one-ruddy.vercel.app/api/top-langs?username=abmdevx&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff" height="165" alt="languages"/>
 </div>
 
 ## 📊 GitHub Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahbutt09&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&area_color=00f5ff" width="95%" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abmdevx&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&area_color=00f5ff" width="95%" alt="activity graph"/>
 </div>
 
 ---
@@ -185,7 +185,7 @@ looking_for:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-coral-rho.vercel.app/?username=abdullahbutt09&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" alt="trophies"/>
+  <img src="https://github-profile-trophy-coral-rho.vercel.app/?username=abmdevx&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" alt="trophies"/>
 </div>
 
 ---
@@ -193,9 +193,9 @@ looking_for:
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahbutt09/abdullahbutt09/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullahbutt09/abdullahbutt09/output/pacman-contribution-graph.svg">
-  <img alt="Contribution graph" src="https://raw.githubusercontent.com/abdullahbutt09/abdullahbutt09/output/pacman-contribution-graph.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abmdevx/abmdevx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abmdevx/abmdevx/output/pacman-contribution-graph.svg">
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/abmdevx/abmdevx/output/pacman-contribution-graph.svg" width="100%"/>
 </picture>
 
 ---
