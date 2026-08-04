@@ -90,7 +90,7 @@ looking_for:
 
 ---
 
-### [🎬 Stream-Core | YouTube-like Backend](https://github.com/abmdevx/stream-core)
+### [🎬 Social-Api | YouTube-like Backend](https://github.com/abmdevx/social-api)
 
 - 🏗️ Production-style backend architecture
 - 🎥 Video uploads and management
