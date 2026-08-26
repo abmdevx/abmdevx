@@ -41,55 +41,12 @@
 
 ## 🚀 Featured Projects
 
-### [🧠 LearnMate | Peer Learning Platform](https://github.com/abmdevx/learn-mate)
-
-- 🤝 Skill-based user matching
-- 👥 Real-time peer collaboration
-- 📚 Collaborative learning sessions
-- 💻 Practice coding together
-- 🚀 Skill growth and progress tracking
-- 📱 Modern responsive interface
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
-
----
-
-### [🎬 Social-Api | YouTube-like Backend](https://github.com/abmdevx/social-api)
-
-- 🏗️ Production-style backend architecture
-- 🎥 Video uploads and management
-- 📂 Playlists and subscriptions
-- ❤️ Likes, 💬 comments, and user interactions
-- 📊 Dashboard analytics using MongoDB aggregation pipelines
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-### [💵 DigitalWallet | Secure Wallet Application](https://github.com/abmdevx/digital-wallet)
-
-- 🔐 Secure user authentication
-- 👤 User account management
-- 💰 Wallet balance management
-- 💸 Transaction handling
-- 📜 Transaction history
-- 📱 Modern responsive interface
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+| Project | Description | Tech | Source |
+|---|---|---|---|
+| 🧠 **[LearnMate](https://github.com/abmdevx/learn-mate)** | Peer learning platform with skill-based matching, real-time collaboration, coding practice, and progress tracking. | <img src="https://skills.syvixor.com/api/icons?i=react,redux,tailwindcss,vite,appwrite" width="120" /> | [Repo](https://github.com/abmdevx/learn-mate) |
+| 🎬 **[Social-Api](https://github.com/abmdevx/social-api)** | YouTube-like backend featuring video management, playlists, subscriptions, interactions, and MongoDB analytics. | <img src="https://skills.syvixor.com/api/icons?i=nodejs,expressjs,mongodb,cloudinary,postman" width="120" /> | [Repo](https://github.com/abmdevx/social-api) |
+| 💵 **[DigitalWallet](https://github.com/abmdevx/digital-wallet)** | Secure wallet application with authentication, account management, balance handling, transactions, and history. | <img src="https://skills.syvixor.com/api/icons?i=react,redux,tailwindcss,reactrouter,appwrite,vite" width="120" /> | [Repo](https://github.com/abmdevx/digital-wallet) |
+| 🎨 **[Collab Whiteboard](https://github.com/abmdevx/collab-whiteboard)** | Real-time collaborative whiteboard with multi-user drawing, WebSocket synchronization, and interactive Canvas-based sketching. | <img src="https://skills.syvixor.com/api/icons?i=react,tailwindcss,nodejs,expressjs,socketio" width="120" /> | [Repo](https://github.com/abmdevx/collab-whiteboard) |
 
 ---
 
