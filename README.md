@@ -17,9 +17,9 @@
 
 ## Let's Connect
 
-<a href="https://hashnode.com/@abmdevx"><img src="https://skills.syvixor.com/api/icons?i=hashnode" /></a>&nbsp;&nbsp;
-<a href="mailto:abdullahbuttdevx@gmail.com"><img src="https://skills.syvixor.com/api/icons?i=gmail" /></a>&nbsp;&nbsp;
-<a href="https://discord.com/users/1125365939609804913"><img src="https://skills.syvixor.com/api/icons?i=discord" /></a>&nbsp;&nbsp;
+<a href="https://hashnode.com/@abmdevx"><img src="https://skills.syvixor.com/api/icons?i=hashnode" /></a>&nbsp;
+<a href="mailto:abdullahbuttdevx@gmail.com"><img src="https://skills.syvixor.com/api/icons?i=gmail" /></a>&nbsp;
+<a href="https://discord.com/users/1125365939609804913"><img src="https://skills.syvixor.com/api/icons?i=discord" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/abdullah-bin-mughira/"><img src="https://skills.syvixor.com/api/icons?i=linkedin" /></a>
 
 ---
