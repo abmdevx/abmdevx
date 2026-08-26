@@ -15,22 +15,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Building+scalable+backends+with+Node.js;%E2%9A%9B%EF%B8%8F+Crafting+clean+UIs+with+React+and+Next.js;%F0%9F%9B%A0%EF%B8%8F+Shipping+real+products%2C+not+just+tutorials;%F0%9F%92%A1+Always+learning.+Always+improving." alt="Typing SVG" />
 </div>
 
----
-
 ## Let's Connect
 
-<div>
-
-<a href="https://hashnode.com/@abmdevx"><img src="https://skills.syvixor.com/api/icons?i=hashnode" /></a>
-<a href="mailto:abdullahbuttdevx@gmail.com"><img src="https://skills.syvixor.com/api/icons?i=gmail" /></a>
-<a href="https://discord.com/users/1125365939609804913"><img src="https://skills.syvixor.com/api/icons?i=discord" /></a>
-<a href="https://www.linkedin.com/in/abdullah-bin-mughira/"><img src="https://skills.syvixor.com/api/icons?i=linkedin" /></a>
-
-</div>
+<a href="https://hashnode.com/@abmdevx"><img src="https://skills.syvixor.com/api/icons?i=hashnode" width="32" /></a>&nbsp;&nbsp;
+<a href="mailto:abdullahbuttdevx@gmail.com"><img src="https://skills.syvixor.com/api/icons?i=gmail" width="32" /></a>&nbsp;&nbsp;
+<a href="https://discord.com/users/1125365939609804913"><img src="https://skills.syvixor.com/api/icons?i=discord" width="32" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abdullah-bin-mughira/"><img src="https://skills.syvixor.com/api/icons?i=linkedin" width="32" /></a>
 
 ---
 
-# 💻 About Me
+## 💻 About Me
 
 ```diff
 + Name     :: Abdullah Bin Mughira
