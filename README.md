@@ -17,10 +17,10 @@
 
 ## Let's Connect
 
-<a href="https://hashnode.com/@abmdevx"><img src="https://skills.syvixor.com/api/icons?i=hashnode" width="45" /></a>&nbsp;&nbsp;
-<a href="mailto:abdullahbuttdevx@gmail.com"><img src="https://skills.syvixor.com/api/icons?i=gmail" width="45" /></a>&nbsp;&nbsp;
-<a href="https://discord.com/users/1125365939609804913"><img src="https://skills.syvixor.com/api/icons?i=discord" width="45" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abdullah-bin-mughira/"><img src="https://skills.syvixor.com/api/icons?i=linkedin" width="45" /></a>
+<a href="https://hashnode.com/@abmdevx"><img src="https://skills.syvixor.com/api/icons?i=hashnode" /></a>&nbsp;&nbsp;
+<a href="mailto:abdullahbuttdevx@gmail.com"><img src="https://skills.syvixor.com/api/icons?i=gmail" /></a>&nbsp;&nbsp;
+<a href="https://discord.com/users/1125365939609804913"><img src="https://skills.syvixor.com/api/icons?i=discord" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abdullah-bin-mughira/"><img src="https://skills.syvixor.com/api/icons?i=linkedin" /></a>
 
 ---
 
@@ -115,17 +115,7 @@
 
 <div align="center">
 
-**Frontend**
-
-<img src="https://skills.syvixor.com/api/icons?i=html,css3,javascript,typescript,reactjs,nextjs,redux,tailwindcss,framermotion,chakraui" />
-
-**Backend & Database**
-
-<img src="https://skills.syvixor.com/api/icons?i=nodejs,expressjs,mongodb,postgresql,mysql,firebase,appwrite,cloudinary" />
-
-**Tools & DevOps**
-
-<img src="https://skills.syvixor.com/api/icons?i=git,github,docker,githubactions,postman,figma,githubcopilot,vscode,leetcode" />
+<img src="https://skills.syvixor.com/api/icons?i=html,css3,javascript,typescript,reactjs,nextjs,redux,tailwindcss,framermotion,chakraui,nodejs,expressjs,mongodb,postgresql,mysql,firebase,appwrite,cloudinary,git,github,docker,githubactions,postman,figma,githubcopilot,vscode"/>
 
 </div>
 
