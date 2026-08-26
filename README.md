@@ -139,37 +139,86 @@ A full-stack event registration platform built with the MERN stack, featuring au
 
 </details>
 
----
-
-### ⚙️ Backend & API Projects
-
 <details>
-<summary><b>🎬 Social-API | YouTube-like Backend</b></summary>
+<summary><b>🎬 Social-API | YouTube-like Social Platform</b></summary>
 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abmdevx/social-api)
 
-A production-style backend API inspired by the core functionality of modern video-sharing platforms.
+A full-stack social media and video-sharing platform inspired by YouTube and Twitter, featuring authentication, video management, social interactions, subscriptions, playlists, analytics, and media uploads.
 
 **Key Features**
 
-- 🏗️ Production-style backend architecture
-- 🎥 Video uploads and management
-- 📂 Playlists and subscriptions
-- ❤️ Likes and 💬 comments
-- 👤 User authentication and management
-- 📊 Dashboard analytics
-- 🗄️ MongoDB aggregation pipelines
+- 🔐 JWT authentication with access & refresh token flow
+- 👤 User profiles, channels, watch history, and account management
+- 🎥 Video uploads, thumbnails, publishing, and management
+- ☁️ Cloudinary-powered media storage
+- 🐦 Tweet creation and management
+- 💬 Comments with pagination
+- ❤️ Likes across videos, comments, and tweets
+- 📂 Playlist creation and video management
+- 🔔 Channel subscriptions
+- 📊 Dashboard analytics using MongoDB aggregation pipelines
+- 📚 Swagger / OpenAPI API documentation
+- 🎨 Modern React frontend with responsive UI
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
+![Lucide](https://img.shields.io/badge/Lucide-F56565?style=flat&logo=lucide&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+
+</details>
+
+---
+
+### ⚙️ Backend & API Projects
+
+<details>
+<summary><b>🍽️ Restaurant API | Restaurant Management System</b></summary>
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abmdevx/restaurant-api)
+
+A RESTful restaurant management API built with Node.js, Express.js, and MongoDB for managing restaurant operations, including menus, tables, reservations, orders, inventory, and reports.
+
+**Key Features**
+
+- 🔐 JWT authentication and authorization
+- 👤 User management with admin access control
+- 🍔 Menu management
+- 🪑 Restaurant table management
+- 📅 Reservation management
+- 🛒 Order management
+- 📦 Inventory tracking
+- 📊 Restaurant reports and analytics
+- ✅ Request validation using Zod
+- 🚨 Centralized error handling
+- ❤️ API health monitoring
+- 🍪 Cookie-based authentication support
 
 **Tech Stack**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 </details>
 
