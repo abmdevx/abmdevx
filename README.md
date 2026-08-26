@@ -39,36 +39,29 @@
 
 ---
 
-## ⚡ About Me
+# 💻 About Me
 
-```yaml
-name: Abdullah Butt
-role: Full Stack Developer
+<div align="center">
 
-focus:
-  - Backend Development
-  - Full-Stack Web Applications
-  - Clean Architecture
+```diff
++ Name        :: Abdullah Bin Mughira
 
-tech:
-  frontend: React • Next.js • Tailwind CSS
-  backend: Node.js • Express.js
-  database: MongoDB
+# Role        :: Full-Stack Developer
 
-currently_learning:
-  - Redis
-  - System Design
-  - Data Structures & Algorithms
++ Focus       :: Backend Development • Full-Stack Applications
 
-currently_building:
-  - SaaS Products
-  - Production-grade REST APIs
+# Frontend    :: React • Next.js • TypeScript • Tailwind CSS
 
-looking_for:
-  - Internship
-  - Open Source
-  - Full-time Opportunities
+# Backend     :: Node.js • Express.js
+
++ Database    :: MongoDB • PostgreSQL
+
+! Learning    :: Redis • System Design • DSA
+
++ Passion     :: Building clean, practical, production-ready software
 ```
+
+</div>
 
 ## 🚀 Featured Projects
 
@@ -172,20 +165,6 @@ looking_for:
   <img src="https://github-readme-stats-one-ruddy.vercel.app/api?username=abmdevx&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff" height="165" alt="stats"/>
   &nbsp;
   <img src="https://github-readme-stats-one-ruddy.vercel.app/api/top-langs?username=abmdevx&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff" height="165" alt="languages"/>
-</div>
-
-## 📊 GitHub Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abmdevx&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&area_color=00f5ff" width="95%" alt="activity graph"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy-coral-rho.vercel.app/?username=abmdevx&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" alt="trophies"/>
 </div>
 
 ---
