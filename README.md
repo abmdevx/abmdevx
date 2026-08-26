@@ -17,10 +17,10 @@
 
 ## Let's Connect
 
-<a href="https://hashnode.com/@abmdevx"><img src="https://skills.syvixor.com/api/icons?i=hashnode" width="32" /></a>&nbsp;&nbsp;
-<a href="mailto:abdullahbuttdevx@gmail.com"><img src="https://skills.syvixor.com/api/icons?i=gmail" width="32" /></a>&nbsp;&nbsp;
-<a href="https://discord.com/users/1125365939609804913"><img src="https://skills.syvixor.com/api/icons?i=discord" width="32" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abdullah-bin-mughira/"><img src="https://skills.syvixor.com/api/icons?i=linkedin" width="32" /></a>
+<a href="https://hashnode.com/@abmdevx"><img src="https://skills.syvixor.com/api/icons?i=hashnode" width="45" /></a>&nbsp;&nbsp;
+<a href="mailto:abdullahbuttdevx@gmail.com"><img src="https://skills.syvixor.com/api/icons?i=gmail" width="45" /></a>&nbsp;&nbsp;
+<a href="https://discord.com/users/1125365939609804913"><img src="https://skills.syvixor.com/api/icons?i=discord" width="45" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abdullah-bin-mughira/"><img src="https://skills.syvixor.com/api/icons?i=linkedin" width="45" /></a>
 
 ---
 
