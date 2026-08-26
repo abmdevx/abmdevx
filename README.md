@@ -15,27 +15,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Building+scalable+backends+with+Node.js;%E2%9A%9B%EF%B8%8F+Crafting+clean+UIs+with+React+and+Next.js;%F0%9F%9B%A0%EF%B8%8F+Shipping+real+products%2C+not+just+tutorials;%F0%9F%92%A1+Always+learning.+Always+improving." alt="Typing SVG" />
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/abdullah-bin-mughira">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/abmdevx">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:abdullahbuttdevx@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/1125365939609804913">
-    <img src="https://skillicons.dev/icons?i=discord" width="48" height="48"/>
-  </a>
+## Let's Connect
+
+<div>
+
+<a href="https://hashnode.com/@abmdevx"><img src="https://skills.syvixor.com/api/icons?i=hashnode" /></a>
+<a href="mailto:abdullahbuttdevx@gmail.com"><img src="https://skills.syvixor.com/api/icons?i=gmail" /></a>
+<a href="https://discord.com/users/1125365939609804913"><img src="https://skills.syvixor.com/api/icons?i=discord" /></a>
+<a href="https://www.linkedin.com/in/abdullah-bin-mughira/"><img src="https://skills.syvixor.com/api/icons?i=linkedin" /></a>
+
 </div>
-
-<br/>
 
 ---
 
@@ -177,8 +168,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-**If you like what I build — drop a ⭐ on a repo. It means a lot!**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Keep+building.+Keep+learning.;See+you+around!+%F0%9F%91%8B" alt="Typing SVG" />
 
 </div>
