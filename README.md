@@ -33,8 +33,8 @@
 - 🗄️ **Database:** MongoDB • PostgreSQL
 
 ```diff
-+ Passion  :: Building clean, practical, production-ready software
-! Learning :: Redis • System Design • DSA
++ Passion = Building clean, practical, production-ready software
+! Learning = Redis • System Design • DSA
 ```
 
 </div>
