@@ -41,24 +41,15 @@
 
 # 💻 About Me
 
-<div align="center">
-
 ```diff
-+ Name        :: Abdullah Bin Mughira
-
-# Role        :: Full-Stack Developer
-
-+ Focus       :: Backend Development • Full-Stack Applications
-
-# Frontend    :: React • Next.js • TypeScript • Tailwind CSS
-
-# Backend     :: Node.js • Express.js
-
-+ Database    :: MongoDB • PostgreSQL
-
-! Learning    :: Redis • System Design • DSA
-
-+ Passion     :: Building clean, practical, production-ready software
++ Name     :: Abdullah Bin Mughira
+# Role     :: Full-Stack Developer
++ Focus    :: Backend Development • Full-Stack Applications
+# Frontend :: React • Next.js • TypeScript • Tailwind CSS
+# Backend  :: Node.js • Express.js
++ Database :: MongoDB • PostgreSQL
+! Learning :: Redis • System Design • DSA
++ Passion  :: Building clean, practical, production-ready software
 ```
 
 </div>
