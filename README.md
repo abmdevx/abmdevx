@@ -41,12 +41,170 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech | Source |
-|---|---|---|---|
-| 🧠 **[LearnMate](https://github.com/abmdevx/learn-mate)** | Peer learning platform with skill-based matching, real-time collaboration, coding practice, and progress tracking. | React · Redux Toolkit · Tailwind CSS · Vite · Appwrite | [Repo](https://github.com/abmdevx/learn-mate) |
-| 🎬 **[Social-Api](https://github.com/abmdevx/social-api)** | YouTube-like backend featuring video management, playlists, subscriptions, interactions, and MongoDB analytics. | Node.js · Express.js · MongoDB · Cloudinary · Postman | [Repo](https://github.com/abmdevx/social-api) |
-| 💵 **[DigitalWallet](https://github.com/abmdevx/digital-wallet)** | Secure wallet application with authentication, account management, balance handling, transactions, and history. | React · Redux Toolkit · Tailwind CSS · React Router · Appwrite · Vite | [Repo](https://github.com/abmdevx/digital-wallet) |
-| 🎨 **[Collab Whiteboard](https://github.com/abmdevx/collab-whiteboard)** | Real-time collaborative whiteboard with multi-user drawing, WebSocket synchronization, and Canvas-based sketching. | React · Tailwind CSS · Node.js · Express.js · Socket.IO · Canvas API | [Repo](https://github.com/abmdevx/collab-whiteboard) |
+### ☁️ BaaS Projects
+
+<details>
+<summary><b>🧠 LearnMate | Peer Learning Platform</b></summary>
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abmdevx/learn-mate)
+
+A peer-learning platform designed to connect users based on their skills and enable collaborative learning.
+
+**Key Features**
+
+- 🤝 Skill-based user matching
+- 👥 Real-time peer collaboration
+- 📚 Collaborative learning sessions
+- 💻 Practice coding together
+- 🚀 Skill growth and progress tracking
+- 📱 Modern responsive interface
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>💵 DigitalWallet | Secure Wallet Application</b></summary>
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abmdevx/digital-wallet)
+
+A secure digital wallet application focused on authentication, wallet management, and transaction handling.
+
+**Key Features**
+
+- 🔐 Secure user authentication
+- 👤 User account management
+- 💰 Wallet balance management
+- 💸 Transaction handling
+- 📜 Transaction history
+- 📱 Modern responsive interface
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+</details>
+
+---
+
+### 🧩 Full-Stack Projects
+
+<details>
+<summary><b>🎟️ Eventra | Event Registration System</b></summary>
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abmdevx/event-api)
+
+A full-stack event registration platform built with the MERN stack, featuring authentication, role-based access control, event management, registrations, AI-powered event descriptions, and interactive API documentation.
+
+**Key Features**
+
+- 👤 JWT authentication with access & refresh token flow
+- 🔐 Role-based access control with protected admin routes
+- 📅 Complete event creation and management
+- 📝 Event registration with capacity and duplicate-registration protection
+- 📊 Registration status and management
+- 🤖 AI-powered event descriptions using Google Gemini
+- 📚 Interactive Swagger / OpenAPI documentation
+- 🎨 Responsive dark-themed interface
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+
+</details>
+
+---
+
+### ⚙️ Backend & API Projects
+
+<details>
+<summary><b>🎬 Social-API | YouTube-like Backend</b></summary>
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abmdevx/social-api)
+
+A production-style backend API inspired by the core functionality of modern video-sharing platforms.
+
+**Key Features**
+
+- 🏗️ Production-style backend architecture
+- 🎥 Video uploads and management
+- 📂 Playlists and subscriptions
+- ❤️ Likes and 💬 comments
+- 👤 User authentication and management
+- 📊 Dashboard analytics
+- 🗄️ MongoDB aggregation pipelines
+
+**Tech Stack**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+
+</details>
+
+---
+
+### ⚡ Real-Time Projects
+
+<details>
+<summary><b>🎨 Collab Whiteboard | Real-time Collaborative Whiteboard</b></summary>
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abmdevx/collab-whiteboard)
+
+A real-time collaborative whiteboard that allows multiple users to draw, brainstorm, and share ideas together.
+
+**Key Features**
+
+- 🎨 Real-time collaborative drawing
+- 👥 Multi-user collaboration
+- ⚡ Live synchronization with WebSockets
+- ✏️ Interactive sketching using HTML Canvas
+- 💡 Brainstorming and idea sharing
+- 📱 Modern responsive interface
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas_API-E34F26?style=flat&logo=html5&logoColor=white)
+
+</details>
 
 ---
 
