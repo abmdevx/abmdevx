@@ -270,7 +270,7 @@ A real-time collaborative whiteboard that allows multiple users to draw, brainst
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-steel-nu.vercel.app/?user=abmdevx&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff&timezone=Asia%2FKarachi" height="195" alt="streak"/>
+  <img src="https://github-readme-streak-stats-chi-ecru.vercel.app/?user=abmdevx&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff&timezone=Asia%2FKarachi" height="195" alt="streak"/>
 </div>
 
 <div align="center">
