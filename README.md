@@ -15,6 +15,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi%2C+I%27m+Abdullah+Bin+Mughira;%F0%9F%9A%80+Building+scalable+backends+with+Node.js;%E2%9A%9B%EF%B8%8F+Crafting+clean+UIs+with+React+and+Next.js;%F0%9F%9B%A0%EF%B8%8F+Shipping+real+products%2C+not+just+tutorials;%F0%9F%92%A1+Always+learning.+Always+improving" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <a href="https://user-badge.committers.top/pakistan/abmdevx">
+    <img src="https://user-badge.committers.top/pakistan/abmdevx.svg"
+         alt="Abdullah Bin Mughira - Pakistan Top Developers" />
+  </a>
+</div>
+
 ## Let's Connect
 
 <a href="https://hashnode.com/@abmdevx"><img src="https://skills.syvixor.com/api/icons?i=hashnode" /></a>&nbsp;
