@@ -16,10 +16,18 @@
 </div>
 
 <div align="center">
-  <a href="https://user-badge.committers.top/pakistan/abmdevx">
-    <img src="https://user-badge.committers.top/pakistan/abmdevx.svg"
-         alt="Abdullah Bin Mughira - Pakistan Top Developers" />
+
+  ### 🏆 GitHub Community Recognition
+
+  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/pakistan.md#abmdevx">
+    <img
+      src="https://raw.githubusercontent.com/gayanvoice/top-github-users-ranking/main/svg/pakistan/abmdevx.svg"
+      alt="Top GitHub Users in Pakistan — abmdevx"
+    />
   </a>
+
+  <p><i>Recognized among GitHub contributors in Pakistan</i></p>
+
 </div>
 
 ## Let's Connect
