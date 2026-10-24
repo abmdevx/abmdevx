@@ -125,7 +125,7 @@ A secure digital wallet application focused on authentication, wallet management
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abmdevx/event-api)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abmdevx/eventra)
 
 A full-stack event registration platform built with the MERN stack, featuring authentication, role-based access control, event management, registrations, AI-powered event descriptions, and interactive API documentation.
 
@@ -246,7 +246,7 @@ A RESTful restaurant management API built with Node.js, Express.js, and MongoDB 
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abmdevx/collab-whiteboard)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abmdevx/collabboard)
 
 A real-time collaborative whiteboard that allows multiple users to draw, brainstorm, and share ideas together.
 
