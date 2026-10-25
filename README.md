@@ -206,7 +206,7 @@ A full-stack social media and video-sharing platform inspired by YouTube and Twi
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abmdevx/restaurant-api)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abmdevx/restora)
 
 A RESTful restaurant management API built with Node.js, Express.js, and MongoDB for managing restaurant operations, including menus, tables, reservations, orders, inventory, and reports.
 
@@ -242,7 +242,7 @@ A RESTful restaurant management API built with Node.js, Express.js, and MongoDB 
 ### ⚡ Real-Time Projects
 
 <details>
-<summary><b>🎨 Collab Whiteboard | Real-time Collaborative Whiteboard</b></summary>
+<summary><b>🎨 CollabBoard | Real-time Collaborative Whiteboard</b></summary>
 
 <br>
 
