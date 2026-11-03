@@ -41,11 +41,9 @@
 
 ## 💻 About Me
 
-- 👨‍💻 **Role:** Full-Stack Developer
-- 🎯 **Focus:** Backend Development • Full-Stack Applications
-- 🎨 **Frontend:** React • Next.js • TypeScript • Tailwind CSS
-- ⚙️ **Backend:** Node.js • Express.js
-- 🗄️ **Database:** MongoDB • PostgreSQL
+- 👨‍💻 **Software Engineer** passionate about building software.
+- ⚙️ Interested in **Backend Development & System Design.**
+- 🚀 Always learning, building, and exploring new technologies.
 
 ```diff
 + Passion = Building clean, practical, production-ready software
@@ -197,43 +195,39 @@ A full-stack social media and video-sharing platform inspired by YouTube and Twi
 
 </details>
 
----
-
-### ⚙️ Backend & API Projects
-
 <details>
-<summary><b>🍽️ Restaurant API | Restaurant Management System</b></summary>
+<summary><b>🍽️ Restora | Restaurant Management System</b></summary>
 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abmdevx/restora)
 
-A RESTful restaurant management API built with Node.js, Express.js, and MongoDB for managing restaurant operations, including menus, tables, reservations, orders, inventory, and reports.
+A full-stack restaurant management system for handling restaurant operations, including menu management, tables, reservations, orders, inventory, and reports.
 
 **Key Features**
 
 - 🔐 JWT authentication and authorization
 - 👤 User management with admin access control
-- 🍔 Menu management
-- 🪑 Restaurant table management
+- 🍔 Menu and restaurant table management
 - 📅 Reservation management
 - 🛒 Order management
 - 📦 Inventory tracking
 - 📊 Restaurant reports and analytics
 - ✅ Request validation using Zod
 - 🚨 Centralized error handling
-- ❤️ API health monitoring
 - 🍪 Cookie-based authentication support
 
 **Tech Stack**
 
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 </details>
 
