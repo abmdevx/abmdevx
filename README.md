@@ -85,38 +85,9 @@ A peer-learning platform designed to connect users based on their skills and ena
 
 </details>
 
-<details>
-<summary><b>💵 DigitalWallet | Secure Wallet Application</b></summary>
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abmdevx/digital-wallet)
-
-A secure digital wallet application focused on authentication, wallet management, and transaction handling.
-
-**Key Features**
-
-- 🔐 Secure user authentication
-- 👤 User account management
-- 💰 Wallet balance management
-- 💸 Transaction handling
-- 📜 Transaction history
-- 📱 Modern responsive interface
-
-**Tech Stack**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-</details>
-
 ---
 
-### 🧩 Full-Stack Projects
+### 🌐 Full-Stack Projects
 
 <details>
 <summary><b>🎟️ Eventra | Event Registration System</b></summary>
@@ -153,7 +124,7 @@ A full-stack event registration platform built with the MERN stack, featuring au
 </details>
 
 <details>
-<summary><b>🎬 Social-API | YouTube-like Social Platform</b></summary>
+<summary><b>🎬 streamline | YouTube-like Social Platform</b></summary>
 
 <br>
 
@@ -228,6 +199,44 @@ A full-stack restaurant management system for handling restaurant operations, in
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+
+</details>
+
+---
+
+### 🧩 Chrome Extensions
+
+<details>
+<summary><b>📄 Docraft | AI Response to Document Converter</b></summary>
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abmdevx/docraft)
+![Manifest V3](https://img.shields.io/badge/Manifest-V3-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![MIT License](https://img.shields.io/badge/License-MIT-22C55E?style=flat)
+
+A local-first Chrome extension that transforms pasted AI responses into polished, editable Word, PDF, and Markdown documents.
+
+**Key Features**
+
+- 📄 Export to Word, PDF, and Markdown
+- ✍️ Full editing workspace with live preview
+- 🎨 Customizable document styling and layouts
+- 🧮 LaTeX formula rendering in PDF exports
+- 🔒 Privacy-focused with local processing
+- ⚡ Quick exports through a compact popup
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-MV3-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![PDFMake](https://img.shields.io/badge/PDFMake-B40C0C?style=flat)
+![KaTeX](https://img.shields.io/badge/KaTeX-1A1A1A?style=flat)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![DOCX](https://img.shields.io/badge/Word_Documents-2B579A?style=flat&logo=microsoftword&logoColor=white)
 
 </details>
 
