@@ -240,6 +240,35 @@ A local-first Chrome extension that transforms pasted AI responses into polished
 
 </details>
 
+ <details>
+<summary><b>📞 1TapDial | Google Sheets to Google Voice</b></summary>
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abmdevx/1tapdial)
+![Manifest V3](https://img.shields.io/badge/Manifest-V3-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![MIT License](https://img.shields.io/badge/License-MIT-22C55E?style=flat)
+
+A lightweight Chrome extension that detects phone numbers in Google Sheets and automatically sends them to Google Voice to initiate calls with a single click.
+
+**Key Features**
+
+- 📞 One-click dialing directly from Google Sheets
+- 🔍 Automatic phone number detection and normalization
+- 🔄 Seamless Google Voice integration
+- ⚡ Automatic dialer interaction
+- 🔌 Connection recovery and automatic reconnection
+- 🔒 Privacy-focused with no backend or data collection
+
+**Tech Stack**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-MV3-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+</details>
+
 ---
 
 ### ⚡ Real-Time Projects
