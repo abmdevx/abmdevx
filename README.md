@@ -318,23 +318,23 @@ A real-time collaborative whiteboard that allows multiple users to draw, brainst
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats-chi-ecru.vercel.app/?user=abmdevx&theme=dark&hide_border=true&background=373F51&ring=EDAE49&fire=C5705D&currStreakLabel=C5705D&sideLabels=EBCFB2&dates=8E919A&currStreakNum=EBCFB2&sideNums=EBCFB2"
+    src="https://github-readme-streak-stats-chi-ecru.vercel.app/?user=abmdevx&theme=dark&hide_border=true&background=0D1117&ring=3694F5&fire=3694F5&currStreakLabel=3694F5&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9"
     height="195"
-    alt="streak"
+    alt="GitHub Streak Stats"
   />
 </div>
 
 <div align="center">
   <img
-    src="https://github-readme-stats-one-ruddy.vercel.app/api?username=abmdevx&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=dark&hide_border=true&bg_color=373F51&title_color=C5705D&icon_color=EDAE49&text_color=EBCFB2"
+    src="https://github-readme-stats-one-ruddy.vercel.app/api?username=abmdevx&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=dark&hide_border=true&bg_color=0D1117&title_color=3694F5&icon_color=3694F5&text_color=C9D1D9"
     height="165"
-    alt="stats"
+    alt="GitHub Stats"
   />
   &nbsp;
   <img
-    src="https://github-readme-stats-one-ruddy.vercel.app/api/top-langs?username=abmdevx&layout=donut&langs_count=6&theme=dark&hide_border=true&bg_color=373F51&title_color=C5705D&text_color=EBCFB2"
+    src="https://github-readme-stats-one-ruddy.vercel.app/api/top-langs?username=abmdevx&layout=donut&langs_count=6&theme=dark&hide_border=true&bg_color=0D1117&title_color=3694F5&text_color=C9D1D9"
     height="165"
-    alt="languages"
+    alt="Most Used Languages"
   />
 </div>
 
