@@ -56,27 +56,31 @@
 
 ### ☁️ BaaS Projects
 
-<details>
+ <details>
 <summary><b>🧠 LearnMate | Peer Learning Platform</b></summary>
 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abmdevx/learn-mate)
 
-A peer-learning platform designed to connect users based on their skills and enable collaborative learning.
+A collaborative learning platform designed to connect students with compatible study partners based on their learning interests, skill levels, availability, and timezones.
 
 **Key Features**
 
-- 🤝 Skill-based user matching
-- 👥 Real-time peer collaboration
-- 📚 Collaborative learning sessions
-- 💻 Practice coding together
-- 🚀 Skill growth and progress tracking
-- 📱 Modern responsive interface
+- 🤝 Personalized study partner discovery and matching
+- 👤 Customizable learning profiles and interests
+- 💚 Mutual-like connection system
+- 💬 Real-time private messaging
+- 🔔 Live notifications for likes, matches, and messages
+- 📊 Personalized learning dashboard
+- 🔐 Secure authentication and account management
+- 📱 Modern, responsive user interface
+- 💻 Interactive Coding Playground *(Coming Soon)*
 
 **Tech Stack**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
