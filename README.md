@@ -132,24 +132,27 @@ A full-stack event registration platform built with the MERN stack, featuring au
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abmdevx/social-api)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abmdevx/streamline)
 
-A full-stack social media and video-sharing platform inspired by YouTube and Twitter, featuring authentication, video management, social interactions, subscriptions, playlists, analytics, and media uploads.
+A full-stack social media and video-sharing platform inspired by YouTube and Twitter, built end to end in strict TypeScript. It features secure authentication, video management, social interactions, subscriptions, playlists, a creator studio, and media uploads, with a responsive light and dark interface.
 
 **Key Features**
 
-- 🔐 JWT authentication with access & refresh token flow
+- 🔐 Secure auth: JWT access and refresh tokens in httpOnly cookies, with refresh-token rotation and reuse detection
+- 🛡️ Hardened API: Zod validation on every request, rate limiting, CSRF origin checks, helmet, and upload file-signature checks
 - 👤 User profiles, channels, watch history, and account management
-- 🎥 Video uploads, thumbnails, publishing, and management
+- 🎥 Video uploads with progress, thumbnails, publish/unpublish, and a creator Studio with channel stats
 - ☁️ Cloudinary-powered media storage
-- 🐦 Tweet creation and management
-- 💬 Comments with pagination
-- ❤️ Likes across videos, comments, and tweets
+- 🐦 Community posts with edit, delete, and bulk delete
+- 💬 Comments with pagination, editing, and likes
+- ❤️ Likes across videos, comments, and posts
 - 📂 Playlist creation and video management
 - 🔔 Channel subscriptions
+- 🔍 Search, sorting, and pagination, plus a trending page
 - 📊 Dashboard analytics using MongoDB aggregation pipelines
 - 📚 Swagger / OpenAPI API documentation
-- 🎨 Modern React frontend with responsive UI
+- 🎨 Modern shadcn/ui interface with light, dark, and system themes
+- ✅ Unit and integration tests
 
 **Tech Stack**
 
@@ -157,13 +160,16 @@ A full-stack social media and video-sharing platform inspired by YouTube and Twi
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
 ![Lucide](https://img.shields.io/badge/Lucide-F56565?style=flat&logo=lucide&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js_5-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
